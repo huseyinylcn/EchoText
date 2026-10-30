@@ -2,6 +2,3 @@ node_modules/
 
 # Gizli anahtarlar
 .env
-
-# Çalışma zamanında oluşan SQLite veritabanı
-server/data/
