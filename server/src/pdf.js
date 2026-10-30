@@ -109,7 +109,7 @@ export function buildPdf(job) {
   const doc = {
     pageSize: 'A4',
     pageMargins: [40, 48, 40, 48],
-    info: { title, creator: 'Ses Çevirmeni' },
+    info: { title, creator: 'EchoText' },
     defaultStyle: { font: 'Roboto', fontSize: 10, lineHeight: 1.3, color: COLORS.text },
     footer: (page, pageCount) => ({
       text: `${page} / ${pageCount}`,

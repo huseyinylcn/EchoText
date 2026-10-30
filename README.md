@@ -1,4 +1,4 @@
-# Ravza — Ses Çevirmeni
+# EchoText
 
 İngilizce ses ve video dosyalarını yazıya döker, cümle cümle Türkçeye çevirir. İngilizce metin ile Türkçe çeviri yan yana gösterilir; sonuçlar kaydedilir ve PDF olarak indirilebilir. Yazıya dökme ve çeviri için OpenAI API kullanılır.
 

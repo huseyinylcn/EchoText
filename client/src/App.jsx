@@ -78,7 +78,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Ses Çevirmeni</h1>
+        <h1>EchoText</h1>
         <p className="muted">İngilizce ses → İngilizce metin → Türkçe çeviri</p>
       </header>
 
